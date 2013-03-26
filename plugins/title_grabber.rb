@@ -4,7 +4,7 @@ require 'nokogiri'
 
 class TitleGrabber
   include Cinch::Plugin
-
+  @help_string = "Titlegrabber simply sits in the channel watching for HTTP links. When it sees one, it will grab the title, and print it in the channel"
   listen_to :channel
 
   def grab(url)

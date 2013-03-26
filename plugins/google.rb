@@ -6,7 +6,11 @@ require 'cgi'
 class Google
   include Cinch::Plugin
   match /google (.+)/
-
+  @help_hash = {
+    :google => "Usage: !google THING
+Example !google Syria
+Returns the first google hit for THING"
+  }
   def search(query)
     url = "http://www.google.com/search?q=#{CGI.escape(query)}"
     res = Nokogiri::HTML(open(url)).at("h3.r")

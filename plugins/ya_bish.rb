@@ -4,7 +4,7 @@ class YaBish
   class << self
     attr_reader :ya_bish_array
   end
-
+  @help_string = "YaBish listens in the channel, waiting for someone to say \"ya bish\" or \"steggybot\", and then replying with a randomly chosen line from Kendrick Lamar's \"Money Trees\" which contains \"ya bish\""
   listen_to :channel
   @ya_bish_array = ["Me and my niggas tryna get it, ya bish",
                     "Hit this house lick tell me is you with it, ya bish",

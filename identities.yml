@@ -1,7 +1,132 @@
---- 
-sederam: 
-  :name: gilbert
-  :added_by: czhang
-songe: 
+---
+sederam:
+  :name: a follower
+  :added_by: whunt
+  :updated_at: !ruby/object:DateTime 2013-02-14 01:58:51.598510113 +00:00
+songe:
   :name: angie
   :added_by: czhang
+stufflebear:
+  :name: mary
+  :added_by: steggy_meeting
+  :updated_at: !ruby/object:DateTime 2013-02-11 05:48:32.624819340 +00:00
+john_galt:
+  :name: ! '"Randian Hero"'
+  :added_by: steggy_meeting
+  :updated_at: !ruby/object:DateTime 2013-02-11 18:24:33.604853946 +00:00
+bird:
+  :name: ! '"The word"'
+  :added_by: steggy
+  :updated_at: !ruby/object:DateTime 2013-02-11 19:30:42.143053785 +00:00
+wsong:
+  :name: wayne
+  :added_by: wsong
+  :updated_at: !ruby/object:DateTime 2013-02-11 19:37:58.404597566 +00:00
+nfair:
+  :name: a_man_of_mystery
+  :added_by: nfair
+  :updated_at: !ruby/object:DateTime 2013-02-19 19:16:54.458409521 +00:00
+skimbrel:
+  :name: ! '"corrected"'
+  :added_by: skimbrel
+  :updated_at: !ruby/object:DateTime 2013-02-13 00:30:54.424832899 +00:00
+steggy:
+  :name: the greatest
+  :added_by: steggy
+  :updated_at: !ruby/object:DateTime 2013-02-11 19:48:54.030991226 +00:00
+whunt:
+  :name: neckbeard
+  :added_by: jknew
+  :updated_at: !ruby/object:DateTime 2013-02-14 19:01:39.851819168 +00:00
+heidi:
+  :name: a dragon boob
+  :added_by: whunt
+  :updated_at: !ruby/object:DateTime 2013-02-11 19:56:20.760960197 +00:00
+virulently:
+  :name: ! '"Asterisms opinion against the use of drone strikes"'
+  :added_by: steggy_meeting
+  :updated_at: !ruby/object:DateTime 2013-02-13 00:28:00.678122180 +00:00
+hail_spacecake:
+  :name: greg
+  :added_by: steggy_meeting
+  :updated_at: !ruby/object:DateTime 2013-02-13 00:46:51.152004835 +00:00
+steggy_meeting:
+  :name: ! '"steggy, but at a meeting"'
+  :added_by: steggy_meeting
+  :updated_at: !ruby/object:DateTime 2013-02-13 00:48:33.909658534 +00:00
+jag:
+  :name: josh silver
+  :added_by: steggy
+  :updated_at: !ruby/object:DateTime 2013-02-13 21:14:27.392581259 +00:00
+heidi_sux:
+  :name: she suxx
+  :added_by: heidi_sux
+  :updated_at: !ruby/object:DateTime 2013-02-14 00:40:51.057327930 +00:00
+jknew:
+  :name: Jacob
+  :added_by: jknew
+  :updated_at: !ruby/object:DateTime 2013-02-14 19:04:50.003894840 +00:00
+asterism:
+  :name: victor
+  :added_by: steggy
+  :updated_at: !ruby/object:DateTime 2013-02-14 18:57:17.276003440 +00:00
+czhang:
+  :name: the coolest duder ever
+  :added_by: czhang
+  :updated_at: !ruby/object:DateTime 2013-02-14 19:04:02.404956045 +00:00
+whunt1:
+  :name: a ghost of the shitty ApartmentList internet
+  :added_by: whunt1
+  :updated_at: !ruby/object:DateTime 2013-02-15 00:09:58.558940282 +00:00
+songe1:
+  :name: the ghost of angies past
+  :added_by: steggy
+  :updated_at: !ruby/object:DateTime 2013-02-18 20:28:44.120463795 +00:00
+tag:
+  :name: nfair> tag -> scott the other engineer on the Pigeon team with me
+  :added_by: czhang
+  :updated_at: !ruby/object:DateTime 2013-02-21 18:20:52.773062929 +00:00
+steggybot:
+  :name: the guy who throws gang signs out the window, ya bish
+  :added_by: whunt
+  :updated_at: !ruby/object:DateTime 2013-02-19 19:07:41.047552113 +00:00
+tullidil:
+  :name: a Noobidil
+  :added_by: whunt
+  :updated_at: !ruby/object:DateTime 2013-02-20 20:00:11.305169003 +00:00
+sushis:
+  :name: heidi
+  :added_by: wsong
+  :updated_at: !ruby/object:DateTime 2013-03-01 18:12:02.020550975 +00:00
+kiwis:
+  :name: heidi
+  :added_by: wsong
+  :updated_at: !ruby/object:DateTime 2013-03-02 00:04:58.759563332 +00:00
+angie:
+  :name: actually little chris. Do not be fooled
+  :added_by: whunt
+  :updated_at: !ruby/object:DateTime 2013-03-02 01:11:31.928665846 +00:00
+everyone:
+  :name: a feature that has not been implemented yet
+  :added_by: whunt
+  :updated_at: !ruby/object:DateTime 2013-03-02 01:13:47.443978078 +00:00
+mimblewhimble:
+  :name: Luke
+  :added_by: angie
+  :updated_at: !ruby/object:DateTime 2013-03-02 01:51:02.017336670 +00:00
+mcint:
+  :name: loren
+  :added_by: wsong
+  :updated_at: !ruby/object:DateTime 2013-03-04 17:29:39.286906971 +00:00
+acanyon:
+  :name: amanda canyon
+  :added_by: czhang
+  :updated_at: !ruby/object:DateTime 2013-03-05 23:45:02.017555159 +00:00
+ians:
+  :name: based god
+  :added_by: ians
+  :updated_at: !ruby/object:DateTime 2013-03-05 23:50:01.823814647 +00:00
+goteampeach:
+  :name: angela
+  :added_by: czhang1
+  :updated_at: !ruby/object:DateTime 2013-03-06 01:08:49.416697064 +00:00

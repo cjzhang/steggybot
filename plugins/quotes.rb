@@ -3,11 +3,16 @@ require 'yaml'
 
 class Quotes
   include Cinch::Plugin
-
+  @help_hash = {
+      :add_quote => "Usage: !addquote Quote
+Example: !addquote \"That steggybot sure is something\"",
+      :quote => "Usage !quote [search]
+Example: !quote whunt",
+      :fortune => "Same as quote"
+    }
   match /addquote (.+)/i, method: :addquote
   match /quote (.+)/i, method: :quote
   match /fortune/i, method: :quote
-  match "quote", method: :quote
 
   def initialize(*args)
     super
